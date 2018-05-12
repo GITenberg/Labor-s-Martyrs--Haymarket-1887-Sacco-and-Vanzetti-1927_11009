@@ -1,5 +1,5 @@
 _repo: Labor-s-Martyrs--Haymarket-1887-Sacco-and-Vanzetti-1927_11009
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   author_of_introduction:
     agent_name: Foster, William Z.
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1961
     gutenberg_agent_id: '38041'
     url: http://www.gutenberg.org/2009/agents/38041
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Marcantonio, Vito
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3790
     wikipedia: http://en.wikipedia.org/wiki/Vito_Marcantonio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11009#Labor-s-Martyrs--Haymarket-1887-Sacco-and-Vanzetti-1927
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
